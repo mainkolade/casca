@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>969756798414-aj6o6r3ag13hcu2smuil5a9nvr6dp84i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.969756798414-aj6o6r3ag13hcu2smuil5a9nvr6dp84i</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>969756798414-8jpl8mi2gi4pcp4l7gsggfcslndc7gq7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCP5Tsn2nYEC4RevFMu4G9E9p-hoBqD63s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>969756798414</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mainkolade.casca</string>
+	<key>PROJECT_ID</key>
+	<string>casca-378d8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>casca-378d8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:969756798414:ios:412c4d32265a61d68e4f9f</string>
+</dict>
+</plist>

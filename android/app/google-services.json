@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "969756798414",
+    "project_id": "casca-378d8",
+    "storage_bucket": "casca-378d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969756798414:android:0c21e8030617ce2a8e4f9f",
+        "android_client_info": {
+          "package_name": "com.mainkolade.casca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969756798414-8jpl8mi2gi4pcp4l7gsggfcslndc7gq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mainkolade.casca",
+            "certificate_hash": "f6733d5c81795eaeb37695958e07a2f326bef8c3"
+          }
+        },
+        {
+          "client_id": "969756798414-dbdu52msmkb90hcvaadgf1eoartvlut0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mainkolade.casca",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "969756798414-qv8qn35351128ipqg667u4po4c14ontj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUiK1MEtDQ3nmfbVDeJcqI6Z1qu0-6WAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969756798414-gibftpvo47a9rij3h3ei2iiqvpqudk17.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "969756798414-aj6o6r3ag13hcu2smuil5a9nvr6dp84i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mainkolade.casca"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
